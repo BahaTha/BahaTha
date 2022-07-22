@@ -31,7 +31,7 @@ I'm Bahaeddine Thabet, from Tunisia. I'm a Full-Stack Developer, Devops engineer
 <img src="https://user-images.githubusercontent.com/59792971/164090683-5b0ee251-825c-40a5-8d48-41ff40cc51db.png" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
 <img src="http://assets.stickpng.com/images/58480a44cef1014c0b5e4917.png" alt="Kubernates" height="40" style="vertical-align:top; margin:4px"> 
  <img src="https://iconape.com/wp-content/files/be/370867/svg/370867.svg" alt="Fastlane" height="40" style="vertical-align:top; margin:4px"> 
- 
+  
  <img alt="Docker" width="50px" height="40px" src="https://iconape.com/wp-content/files/fr/370801/svg/docker-icon-logo-icon-png-svg.png"; margin:4px />
 <img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"; margin:4px />
  <img alt="Linux" height="40px" src="https://user-images.githubusercontent.com/59792971/164090922-0eaf21ff-bc5f-42d7-9ed8-278734518179.png"; margin:4px />
