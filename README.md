@@ -1,6 +1,5 @@
 ## About Me
-
-### Hi there 👋
+<h1 align="center">Hi There 👋</h1>
  ![Count](https://visitor-badge.laobi.icu/badge?page_id=BahaTha.BahaTha) [![Github](https://img.shields.io/github/followers/BahaTha?label=Follow&style=social)](https://github.com/BahaTha) 
 
 I'm Bahaeddine Thabet, from Tunisia. I'm a Full-Stack Developer, Devops Engineer. I'm really open to any opportunity that will give me the chance to start a new adventure, express my creativity and acquire new skills.
