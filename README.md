@@ -3,7 +3,7 @@
 ### Hi there 👋
  ![Count](https://visitor-badge.laobi.icu/badge?page_id=BahaTha.BahaTha) [![Github](https://img.shields.io/github/followers/BahaTha?label=Follow&style=social)](https://github.com/BahaTha) 
 
-I'm Bahaeddine Thabet, from Tunisia. I'm a Full-Stack Developer, Cloud engineering enthusiast. I'm really open to any opportunity that will give me the chance to start a new adventure, express my creativity and acquire new skills.
+I'm Bahaeddine Thabet, from Tunisia. I'm a Full-Stack Developer, Devops engineering enthusiast. I'm really open to any opportunity that will give me the chance to start a new adventure, express my creativity and acquire new skills.
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Developer;UI/UX+Designer;Always%20learning%20new%20things&center=false&width=500&height=50"></a>
 
