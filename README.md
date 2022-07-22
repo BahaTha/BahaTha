@@ -4,8 +4,8 @@
  ![Count](https://visitor-badge.laobi.icu/badge?page_id=BahaTha.BahaTha) [![Github](https://img.shields.io/github/followers/BahaTha?label=Follow&style=social)](https://github.com/BahaTha) 
 
 I'm Bahaeddine Thabet, from Tunisia. I'm a Full-Stack Developer, Devops Engineer. I'm really open to any opportunity that will give me the chance to start a new adventure, express my creativity and acquire new skills.
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Developer;UI/UX+Designer;Devops+Engineer; Always%20learning%20new%20things&center=false&width=500&height=50"></a>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Developer;UI/UX+Designer;Devops+Engineer;Always%20learning%20new%20things&center=false&width=500&height=50"></a>
 
 ### Social accounts
 [<img src='https://user-images.githubusercontent.com/59792971/164092560-819298ce-c9ba-4438-a368-bd1bcd6e7389.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/bahaeddine-thabet/) [<img src='https://user-images.githubusercontent.com/59792971/164092047-ea3ce66e-7068-4d46-b3ea-fbac1c0cb5fd.png' alt='facebook' height='50'>](https://www.facebook.com/R0Y4l.TN/)  [<img src='https://user-images.githubusercontent.com/59792971/164092165-318b4325-304b-4b3e-8143-eb8906976e4d.png' alt='email' height='53'>](mailto:baha.thabet1@gmail.com) 
